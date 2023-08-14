@@ -3,8 +3,6 @@ Test run [infisical](https://infisical.com) in podman. Some modifications to let
 
 ```bash
 diff docker-compose.yml podman-compose.yml 
-```
-```bash
 9,10c9,10
 <       - 80:80
 <       - 443:443
